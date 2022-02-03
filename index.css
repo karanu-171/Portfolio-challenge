@@ -79,21 +79,8 @@ html {
     margin: 40px 0px;
 }
 
-.btn {
-    padding: 10px 35px;
-    background-color: transparent;
-    border: 1px solid white;
-    color: white;
-    outline: none;
-    transition: .6s ease;
-}
-
-.btn:hover {
-    cursor: pointer;
-    background-color: white;
-    color: black;
-    box-shadow: 0 0 5px white 0 0 10px white 0 0 15px white;
-    font-weight: bold;
+.modo {
+    font-size: 2.5rem;
 }
 
 #about {
